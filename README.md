@@ -22,7 +22,8 @@ The [current complaint submission process](https://www.justice.gov/crt/how-file-
 - Uchenna Moka-Solana, Product + co-lead, [@uchmok ](https://github.com/UchMok)
 
 ## DOJ, Civil Rights Division Partners
-- Daniel Yi, Senior Counsel for Innovation at Department of Justice
+- **Product Owner**: Daniel Yi, Senior Counsel for Innovation 
+- **Project Sponsor**: Kathy Toomey, Director of Operations
 
 ## Path Analysis (Research) Timeline
 
@@ -30,7 +31,7 @@ The [current complaint submission process](https://www.justice.gov/crt/how-file-
 | -------- | -------- | -------- |
 | Prep + Kickoff | Interviews + Research + Stakeholder Workshops | Synthesis & Final Presentation |
 
-**During this research-focused phase, 18F will provide DOJ with the following:**
+**During this research-focused phase, 18F will provide the Civil Rights Division with the following:**
 
 - Clear problem definition via a collaboratively evolved problem statement; 
 - A prioritized roadmap of the actions DOJ should take next to address this problem. The prioritization of this roadmap should take into account the organizational priorities, potential impact, and feasibility of the recommendations;
