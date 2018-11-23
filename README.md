@@ -1,5 +1,5 @@
 # DOJ Civil Rights Citizen Complaint Portal
-18F and the Civil Rights Division of the Department of Justice are enging in an 8 week *path analysis* (research) and a 9 month *explore and iterate* (build) to improve the experience of filing civil rights complaints.   
+18F and the Civil Rights Division of the Department of Justice are engaging in an 8 week *path analysis* (research) and a 9 month *explore and iterate* (build) to improve the experience of filing civil rights complaints.   
 
 ## Project Background
 
