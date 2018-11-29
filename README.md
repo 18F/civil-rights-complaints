@@ -27,11 +27,7 @@ The [current complaint submission process](https://www.justice.gov/crt/how-file-
 
 ## Path Analysis (Research) Timeline
 
-| <p align=center> Week 1 <br> 11/19-11/23 </p> | <p align=center> Week 2-6 <br> 11/26-12/28 </p> | <p align=center> Week 7-8 <br> 12/31-1/11 </p> |
-| -------- | -------- | -------- |
-| Prep + Kickoff | Interviews + Research + Stakeholder Workshops | Synthesis & Final Presentation |
-
-[[https://github.com/18F/civil-rights-complaints/blob/master/CRT%20PA%20Timeline-3.jpg|alt=octocat]]
+![alt text](https://github.com/18F/civil-rights-complaints/blob/master/CRT%20PA%20Timeline-3.jpg)
 
 **During this research-focused phase, 18F will provide the Civil Rights Division with the following:**
 
