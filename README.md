@@ -31,6 +31,8 @@ The [current complaint submission process](https://www.justice.gov/crt/how-file-
 | -------- | -------- | -------- |
 | Prep + Kickoff | Interviews + Research + Stakeholder Workshops | Synthesis & Final Presentation |
 
+[[https://github.com/18F/civil-rights-complaints/blob/master/CRT%20PA%20Timeline-3.jpg|alt=octocat]]
+
 **During this research-focused phase, 18F will provide the Civil Rights Division with the following:**
 
 - Clear problem definition via a collaboratively evolved problem statement; 
