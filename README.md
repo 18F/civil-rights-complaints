@@ -27,7 +27,7 @@ The [current complaint submission process](https://www.justice.gov/crt/how-file-
 
 ## Path Analysis (Research) Timeline
 
-![alt text](https://github.com/18F/civil-rights-complaints/blob/master/CRT%20PA%20Timeline-3.jpg)
+![alt text](https://github.com/18F/civil-rights-complaints/blob/master/CRT%20PA%20Timeline-all-weeks.jpg)
 
 **During this research-focused phase, 18F will provide the Civil Rights Division with the following:**
 
